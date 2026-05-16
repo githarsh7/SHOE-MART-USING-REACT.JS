@@ -5,7 +5,7 @@ import Header from "./components/Header";
 import Banner from "./components/Banner";
 import ProductCard from "./components/ProductCard";
 
-import products from "./data/productsData";
+import products from "./Data/productsData";
 
 function App() {
   const [cartCount, setCartCount] = useState(0);

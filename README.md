@@ -148,9 +148,6 @@ git commit -m "Add new feature"
 ```bash
 git push origin feature-name
 ```
-
-5. Open a Pull Request
-
 ---
 
 ## License

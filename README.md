@@ -55,7 +55,7 @@ src/
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/shoemart.git
+git clone https://github.com/githarsh7/SHOE-MART-USING-REACT.JS.git
 ```
 
 ### Navigate to the Project Folder
